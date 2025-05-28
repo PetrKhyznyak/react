@@ -1,0 +1,14 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    padding: 0 .5rem;
+    background-color: #1a274c;
+    color: #fff;
+}
+.header h3 {
+    font-size: 2rem;
+    margin: 0;
+}
